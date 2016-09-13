@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_menu</string>
+    <string name="action_settings">Настройки</string>
+    <string name="button_call">Call</string>
+    <string name="button_app">New App</string>
+    <string name="button_mes">Message</string>
+    <string name="title_activity_second_">Second_Activity</string>
+</resources>
